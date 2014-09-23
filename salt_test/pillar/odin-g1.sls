@@ -1,2 +1,2 @@
-redis_host: redis-odin-g1.sjdc
-tme_server: tme-server.sjdc
+redis_host: redis-odin-g1.dc1
+zk_server: zk-server.dc1
