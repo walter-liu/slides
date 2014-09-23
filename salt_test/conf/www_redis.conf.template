@@ -1,0 +1,1 @@
+# redis = {{ pillar['redis_host'] }} 0006
