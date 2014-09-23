@@ -1,4 +1,4 @@
-The example for my slides.
+This repository contains the example of my slides.
 ===================================
 
 
